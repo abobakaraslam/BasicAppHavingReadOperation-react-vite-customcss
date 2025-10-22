@@ -3,7 +3,7 @@
 Please visit below link for complete detail about creation of this application
 
 ```
-https://edu2skill.wordpress.com/course/react-with-vite-custom-css/getting-data-from-database-and-display-on-users-application-react-vite-customcss/
+https://edu2skill.wordpress.com/course/react-with-vite-custom-css/read-operation-from-frontend-application-react-vite-customcss/
 ```
 
 <br />
@@ -62,4 +62,5 @@ Follow any of below methods to view the output
 Method 1. Copy the complete URL obtained in previous step, paste in any browser's address section and hit enter.
 
 Method 2. ctrl+click on the URL
+
 
